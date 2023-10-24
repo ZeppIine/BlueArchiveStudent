@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Title-Medium";
+    font-weight: normal;
+    src: local('Title_Medium'), url("./font/Title_Medium.woff") format("woff");
+}
+
+body {
+  margin: 0;
+  font-family: "Title-Medium";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

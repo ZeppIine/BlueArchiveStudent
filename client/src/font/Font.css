@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "Title-Medium";
+    font-weight: normal;
+    src: local('Title_Medium'), url("./Title_Medium.woff") format("woff");
+}
